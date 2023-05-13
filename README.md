@@ -1,2 +1,2 @@
-# barber-shop
-A simple barber-shop site
+# goit-markup-hw-01
+A simple homeworkshop site
